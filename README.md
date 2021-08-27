@@ -1,6 +1,6 @@
 ## Hey! 🖖
 
-Im João Pedro Prysthon, currently studying React and React Native. Looking forward to new challenges and projects.
+Im João Pedro Prysthon, currently studying Java and React. Looking forward to new challenges and projects.
 
 You can find me on:
 
